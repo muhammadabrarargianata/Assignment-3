@@ -1,5 +1,5 @@
 body {
-    background-color: #fc8114;
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/89/19/virus-green-pattern-for-background-texture-vector-35178919.jpg);
 }
 
 .container{
@@ -12,10 +12,10 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 25px;
-    background-color: orange;
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/89/19/virus-green-pattern-for-background-texture-vector-35178919.jpg);
     -moz-box-shadow: 0 0 5px 5px #6cd986;
     -webkit-box-shadow: 0 0 5px 5px #6cd986;
-    box-shadow: 0 0 8px 8px #6cd986; 
+    box-shadow: 0 1px 8px 8px #6cd986; 
     }
    
 
@@ -70,7 +70,7 @@ body {
     }
 
     #box5{
-        background: #ABEBC6;
+        background: #ec7d49;
         border-radius: 10px 10px 10px 10px;
         text-align: center;
         color: black;
